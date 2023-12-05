@@ -45,7 +45,7 @@ INSTALLED_APPS = [
     "contact.apps.ContactConfig",
     "product.apps.ProductConfig",
     "order.apps.OrderConfig",
-    # 'modeltranslation',
+    'modeltranslation',
 ]
 
 MIDDLEWARE = [
